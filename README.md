@@ -1,0 +1,1 @@
+# corepicker-opendb-editor
